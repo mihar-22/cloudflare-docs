@@ -27,7 +27,6 @@ layout: example
 			>
 				<video
 					controls
-          
 					src="https://customer-m033z5x00ks6nunl.cloudflarestream.com/b236bde30eb07b9d01318940e5fc3eda/manifest/video.m3u8"
 					preload="none"
 				></video>
@@ -37,4 +36,4 @@ layout: example
 </html>
 ```
 
-Refer to the [Vidstack documentation](https://www.vidstack.io/docs/player/getting-started/quickstart/hls.html) for more information.
+Refer to the [Vidstack documentation](https://www.vidstack.io/docs/player/getting-started/quickstart/) for more information.
